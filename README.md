@@ -5,9 +5,9 @@ The file is **FileSimulationProject.S8**, it's a Simul8 File, to run it, you nee
 The Report is on the file **SimulationReport.docx**
 
 ## Overview
-The restaurant will cater to three different kinds of customers, drive-through, eat-in and carryout.  I want the restaurant to have enough staff to handle peak load times during the day.  
+There is a restaurant that caters to three different kinds of customers, drive-through, eat-in and carryout.  We want the restaurant to have enough staff to handle peak load times during the day.  
 
-I have uploaded an Excel file with 30 interarrival times (in minutes) that were observed from another restaurant.  You need to determine what distribution this data follows (create a frequency chart) and estimate the parameters (mean, standard deviation, and/or boundaries) of the distribution.  You will use these estimates for the drive-through customers and the walk-in customers for the model.  Sixty percent of the walk-in customers stay in the restaurant to eat.
+We have an Excel file with 30 interarrival times (in minutes) that were observed from another restaurant.  We need to determine what distribution this data follows (create a frequency chart) and estimate the parameters (mean, standard deviation, and/or boundaries) of the distribution.  You will use these estimates for the drive-through customers and the walk-in customers for the model.  Sixty percent of the walk-in customers stay in the restaurant to eat.
 
 The drive-through has two windows.  Cars arrive to the first window and place their order and pay for the food.  They pick up their order at the second window.  There is room for three cars two wait between the two windows.  There is room for seven cars to wait at the first window.  The time to place an order is 1 ± 0.5 minutes and the time spent getting food is 2 ± 0.5 minutes.  After the cars receive their food, they leave the restaurant.
 
