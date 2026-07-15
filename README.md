@@ -1,6 +1,6 @@
 # Restaurant Simulation
 ### The file
-The file is FileSimulationProject.S8, it's a Simul8 File, to run it, you need the Simul8 software.
+The file is **FileSimulationProject.S8**, it's a Simul8 File, to run it, you need the Simul8 software.
 
 ## Overview
 The restaurant will cater to three different kinds of customers, drive-through, eat-in and carryout.  I want the restaurant to have enough staff to handle peak load times during the day.  
