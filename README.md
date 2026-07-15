@@ -17,7 +17,7 @@ The people who stay in the restaurant to eat proceed to the tables and the rest 
 
 ## The contents of the simulation
 ### The original state of the restaurant
-This simulation model will help us decide how many people to staff in the drive-through area, the number of cashiers for the walk-in customers and the number of tables to have in the eating area.  
+This Discrete Event simulation model will help us decide how many people to staff in the drive-through area, the number of cashiers for the walk-in customers and the number of tables to have in the eating area.  
 
 ### Alterations made for optimization
 
