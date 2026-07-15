@@ -1,6 +1,7 @@
 # Restaurant Simulation
 ### The file
 The file is **FileSimulationProject.S8**, it's a Simul8 File, to run it, you need the Simul8 software.
+
 The Report is on the file **SimulationReport.docx**
 
 ## Overview
